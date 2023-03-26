@@ -1,8 +1,7 @@
-Feature:
+Feature:  order management
 
         Background:
-          Given web browser is on the home administration page
-          And the administrator is logged in
+          Given the administrator is logged in
 
   Scenario: 1. new order
     Given web browser is on the "Customers" page
