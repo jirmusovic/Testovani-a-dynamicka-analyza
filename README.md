@@ -2,6 +2,7 @@
 
 - **Autor:** Veronika Jirmusová (xjirmu00)
 - **Datum:** 2023-03-26
+- **Hodnoceni:** 20/20
 
 ## Matice pokrytí artefaktů
 
